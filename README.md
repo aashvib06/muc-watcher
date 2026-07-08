@@ -21,4 +21,3 @@ This project measures UDP round trip latency, packet loss, serial link health, a
    ```bash
    python uc_watcher.py
    ```
-
